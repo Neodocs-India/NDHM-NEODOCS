@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+div.content {
+    width: 50px;
+    height: auto;    
+}
